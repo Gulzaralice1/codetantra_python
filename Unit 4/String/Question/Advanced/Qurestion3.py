@@ -1,0 +1,1 @@
+# Write a program that takes user input for a name and age, and then prints a formatted string: "Hello, my name is [name] and I am [age] years old."
